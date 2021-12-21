@@ -1,0 +1,204 @@
+{
+"scooters": [
+{
+"id": 1,
+"brand": "Pure Air Pro",
+"city": "Hasselt",
+"Lat": 50.937706,
+"Lng": 5.3486,
+"Charge": 100,
+"Rented": true,
+"RentedBy": "ibrahim.memedi@student.pxl.be"
+},
+{
+"id": 2,
+"brand": "Segway Ninebot",
+"city": "Hasselt",
+"Lat": 50.935507,
+"Lng": 5.34787,
+"Charge": 100,
+"Rented": true,
+"RentedBy": "test@test.be"
+},
+{
+"id": 3,
+"brand": "Xiaomi",
+"city": "Hasselt",
+"Lat": 50.936246,
+"Lng": 5.343401,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 4,
+"brand": "SoFlow SO3",
+"city": "Hasselt",
+"Lat": 50.933289,
+"Lng": 5.337612,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 5,
+"brand": "Windgoo M12",
+"city": "Hasselt",
+"Lat": 50.931905,
+"Lng": 5.335095,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 6,
+"brand": "8Tev",
+"city": "Hasselt",
+"Lat": 50.931257,
+"Lng": 5.337199,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 7,
+"brand": "Segway Ninebot",
+"city": "Hasselt",
+"Lat": 50.932349,
+"Lng": 5.342516,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 8,
+"brand": "Pure Air",
+"city": "Hasselt",
+"Lat": 50.932268,
+"Lng": 5.342554,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 9,
+"brand": "Xiaomi Pro",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 10,
+"brand": "8Tev",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 11,
+"brand": "SoFlow SO3",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 12,
+"brand": "Segway Ninebot",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 13,
+"brand": "Xiaomi",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 14,
+"brand": "Pure Air Go",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 15,
+"brand": "8Tev B12",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 16,
+"brand": "Windgoo M12",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 17,
+"brand": "Pure Air Pro",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 18,
+"brand": "Windgoo M12",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 19,
+"brand": "8Tev B12",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+},
+{
+"id": 20,
+"brand": "Segway Ninebot",
+"city": "Hasselt",
+"Lat": 50.929624,
+"Lng": 5.33736,
+"Charge": 100,
+"Rented": false,
+"RentedBy": ""
+}
+]
+}
