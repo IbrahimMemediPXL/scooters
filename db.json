@@ -8,7 +8,7 @@
 "Lng": 5.3486,
 "Charge": 100,
 "Rented": true,
-"RentedBy": ""
+"RentedBy": "ibrahim.memedi@student.pxl.be"
 },
 {
 "id": 2,
@@ -17,8 +17,8 @@
 "Lat": 50.935507,
 "Lng": 5.34787,
 "Charge": 100,
-"Rented": false,
-"RentedBy": ""
+"Rented": true,
+"RentedBy": "test@test.be"
 },
 {
 "id": 3,
